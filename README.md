@@ -1,2 +1,2 @@
-# delta-demo1
+# demo1
 this is my first git repository
